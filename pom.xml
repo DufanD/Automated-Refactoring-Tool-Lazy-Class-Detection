@@ -66,7 +66,7 @@
     <repositories>
         <repository>
             <id>Automated-Refactoring-Tool-Model</id>
-            <url>https://raw.github.com/zapahlevie/Automated-Refactoring-Tool-Model/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-Model/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
@@ -75,7 +75,7 @@
 
         <repository>
             <id>Automated-Refactoring-Tool-NOM-Detection</id>
-            <url>https://raw.github.com/zapahlevie/Automated-Refactoring-Tool-NOM-Detection/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-NOM-Detection/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
@@ -84,7 +84,7 @@
 
         <repository>
             <id>Automated-Refactoring-Tool-NOF-Detection</id>
-            <url>https://raw.github.com/zapahlevie/Automated-Refactoring-Tool-NOF-Detection/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-NOF-Detection/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
@@ -93,7 +93,7 @@
 
         <repository>
             <id>Automated-Refactoring-Tool-Locs-Detection</id>
-            <url>https://raw.github.com/zapahlevie/Automated-Refactoring-Tool-Locs-Detection/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-Locs-Detection/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
